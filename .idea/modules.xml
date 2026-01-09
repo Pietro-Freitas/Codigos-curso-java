@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anotações aulas/Anotações aulas.iml" filepath="$PROJECT_DIR$/Anotações aulas/Anotações aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankManagement/BankManagement.iml" filepath="$PROJECT_DIR$/BankManagement/BankManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso java + orientação a objetos.iml" filepath="$PROJECT_DIR$/.idea/Curso java + orientação a objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dolar conversion/Dolar conversion.iml" filepath="$PROJECT_DIR$/Dolar conversion/Dolar conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios de fixação/Exercícios de fixação.iml" filepath="$PROJECT_DIR$/Exercícios de fixação/Exercícios de fixação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiro_projeto_java/Primeiro_projeto_java.iml" filepath="$PROJECT_DIR$/Primeiro_projeto_java/Primeiro_projeto_java.iml" />
+    </modules>
+  </component>
+</project>

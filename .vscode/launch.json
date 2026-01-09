@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Writers",
+      "request": "launch",
+      "mainClass": "Writers",
+      "projectName": "Curso java + orientação a objetos_296addcd"
+    },
+    {
+      "type": "java",
+      "name": "Filecanner",
+      "request": "launch",
+      "mainClass": "Filecanner",
+      "projectName": "Curso java + orientação a objetos_296addcd"
+    },
+    {
+      "type": "java",
+      "name": "FileScanner",
+      "request": "launch",
+      "mainClass": "FileScanner",
+      "projectName": "Curso java + orientação a objetos_296addcd"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Curso java + orientação a objetos_90521777",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
